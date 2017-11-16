@@ -1,0 +1,13 @@
+.image {
+    height:200px;
+    width: 300px;
+}
+
+.image img {
+    height: 200px;
+    width: 300px;
+}
+
+.gallery {
+    display: inline;
+}
